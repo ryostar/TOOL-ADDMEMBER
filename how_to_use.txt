@@ -1,0 +1,81 @@
+== Cách sử dụng TOOL-ADDMEMBER== [hướng dẫn đơn giản]
+
+nếu có vấn đề, hãy truy cập Telegram của chúng tôi- telegram.me/HiSabo
+
+trước tiên, bạn cần lưu trữ các tài khoản cho các mục đích tìm kiếm và thêm trong manager.py
+Vì vậy, khởi chạy trong thiết bị đầu cuối
+
+> python manager.py
+
+--Để thêm tài khoản mới, hãy chọn 1
+Sau đó, nhập số tài khoản bạn muốn thêm
+Sau đó nhập số điện thoại của bạn
+Sau đó, bạn phải đăng nhập từ các tài khoản mới được thêm vào
+Nhập mã đăng nhập và mật khẩu 2FA [nếu bạn đã đặt] và tiếp tục
+
+--Để lọc ra tất cả các tài khoản bị cấm, hãy chọn option2
+
+--Để xóa các tài khoản cụ thể, hãy chọn tùy chọn 3
+Chọn bất kỳ tài khoản nào để xóa và tiếp tục
+
+Bây giờ chúng ta cần thêm thành viên vào một nhóm
+
+Vì vậy, khởi chạy trong thiết bị đầu cuối
+
+> python add.py
+
+Nhập liên kết nhóm mà bạn muốn loại bỏ người dùng
+Nó có thể là một liên kết riêng tư hoặc một liên kết công khai
+
+Định dạng chung của liên kết grp công khai
+
+https://t.me/username
+
+Định dạng chung của liên kết nhóm riêng
+
+https://t.me/joinchat/hash
+
+***** Ghi chú *****
+
+Nếu bạn đã cạo từ một nhóm trước đây, TOOL-ADDMEMBER sẽ nhớ nó và nó sẽ hỏi bạn có nên cạo không
+từ cùng một nhóm hoặc không. Nhập y cho có và n cho không và tiếp tục
+****************
+
+Sau đó nhập số tài khoản bạn muốn sử dụng
+
+= Mỗi tài khoản sẽ cố gắng thêm 60 thành viên =
+
+Sau đó chọn thêm vào nhóm công khai hay nhóm riêng tư
+
+Sau đó nhập liên kết nhóm và tiếp tục
+
+Chọn có thêm người dùng đang hoạt động hay không [LastSeenRecently]
+=== Thông báo ===
+Nếu bạn chọn thêm thành viên đang hoạt động, TOOL-ADDMEMBER có thể chỉ thêm một vài thành viên vì nó
+Bỏ qua các thành viên không hoạt động. Nếu bạn chọn không thêm thành viên đang hoạt động mà thêm tất cả
+Sau đó TOOL-ADDMEMBER sẽ thêm khoảng 60 thành viên
+============
+Sau đó, bạn cần nhập thời gian trễ cho mỗi yêu cầu
+
+Nó là gì?
+
+Đó là khoảng thời gian TOOL-ADDMEMBER sẽ đợi trước khi thêm người dùng tiếp theo
+
+Đầu ra là
+*********
+Thêm một chàng trai vào một nhóm
+--------
+Chờ vài giây
+--------
+Thêm một chàng trai khác vào cùng một nhóm
+
+
+== Nếu bạn muốn thêm nhanh, thì bạn có thể đặt thời gian trễ thành 0 Điều đó có nghĩa là TOOL-ADDMEMBER sẽ không đợi khi thêm người dùng
+Nhưng cơ hội nhận được lỗi lũ ngang hàng từ Telegram là nhiều hơn ==
+
+
+Sự chậm trễ được đề xuất là
+
+5 giây, 10 giây, 15 giây, 20 giây hoặc 60 giây nếu bạn muốn, nhưng nó quá chậm XD
+
+Sau đó, ngồi lại và xem TOOL-ADDMEMBER thêm thành viên
