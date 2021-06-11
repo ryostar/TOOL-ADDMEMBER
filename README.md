@@ -1,5 +1,5 @@
 # TOOL ADDMEMBER 1.0
-<p align='center'><b>Bộ công cụ thu thập và thêm thành viên đa nền tảng Telegram[Ổn định]</b></p>
+Bộ công cụ thu thập và thêm thành viên đa nền tảng Telegram[Ổn định]
 
 # Thông báo 📣
 Đây là một phiên bản ổn định. Báo cáo cho bất kỳ lỗi nào trong [Telegram](https://telegram.me/HISABO)
