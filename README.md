@@ -7,7 +7,6 @@
   </p>
 
 # Usage 🧰
-
 * Trước tiên, bạn cần cài đặt các yêu cầu - `pip install -r architects.txt`
 * Sau đó, bạn cần lưu trữ các tài khoản của mình bằng cách sử dụng `manager.py`
 * Sau đó, cạo và thêm thành viên bằng cách sử dụng `add.py`
@@ -15,7 +14,6 @@
   <p align='center'><b> Để có hướng dẫn đầy đủ và thông tin quan trọng, hãy tham khảo how_to_use.txt</b></p>
 
 # Đặc trưng ♨️
-
 * Không cần API Id và API băm- Nó chỉ yêu cầu số điện thoại
 * Thêm trung bình 60 thành viên [Chỉ khi bạn chọn thêm tất cả thành viên]
 * Thêm thành viên bằng ID, ngay cả khi họ không có tên người dùng.
