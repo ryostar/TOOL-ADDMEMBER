@@ -2,16 +2,13 @@
 <p align='center'><b>Bộ công cụ thu thập và thêm thành viên đa nền tảng Telegram[Ổn định]</b></p>
 
 # Notice 📣
-
-<p align='center'><b>Đây là một phiên bản ổn định. Báo cáo cho bất kỳ lỗi nào trong <a href='https://telegram.me/HISABO> Telegram </a>
+<p align='center'><b>Đây là một phiên bản ổn định. Báo cáo cho bất kỳ lỗi nào trong <a href='https://telegram.me/HISABO>Telegram</a>
   </p>
 
 # Usage 🧰
-* Trước tiên, bạn cần cài đặt các yêu cầu - `pip install -r architects.txt`
-* Sau đó, bạn cần lưu trữ các tài khoản của mình bằng cách sử dụng `manager.py`
-* Sau đó, cạo và thêm thành viên bằng cách sử dụng `add.py`
-
-  <p align='center'><b> Để có hướng dẫn đầy đủ và thông tin quan trọng, hãy tham khảo how_to_use.txt</b></p>
+*Trước tiên, bạn cần cài đặt các yêu cầu - `pip install -r architects.txt`
+*Sau đó, bạn cần lưu trữ các tài khoản của mình bằng cách sử dụng `quanly.py`
+*Sau đó, cạo và thêm thành viên bằng cách sử dụng `sabo.py`
 
 # Đặc trưng ♨️
 * Không cần API Id và API băm- Nó chỉ yêu cầu số điện thoại
