@@ -12,7 +12,7 @@
 * Sau đó, bạn cần lưu trữ các tài khoản của mình bằng cách sử dụng `manager.py`
 * Sau đó, cạo và thêm thành viên bằng cách sử dụng `add.py`
 
-<b> Để có hướng dẫn đầy đủ và thông tin quan trọng, hãy tham khảo, ,[how_to_use.txt](https://github.com/ryostar/TOOL-ADDMEMBER/blob/main/how_to_use.txt)</a> </b>
+<b> Để có hướng dẫn đầy đủ và thông tin quan trọng, hãy tham khảo </b> [how_to_use.txt](https://github.com/ryostar/TOOL-ADDMEMBER/blob/main/how_to_use.txt)
 
 # Đặc trưng ♨️
 
